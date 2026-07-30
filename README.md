@@ -1,7 +1,7 @@
 # nointro-archive: No-Intro sets on Archive.org, for ROM Hub
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
-501(c)(3).
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
 
 Implements the RPP v1 `search` and `importer` capabilities against a plain
 HTTP **directory index** — no API, just the listing a web server renders for a
