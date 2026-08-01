@@ -212,3 +212,15 @@ re-validates **every redirect hop** against this list, which is why the
 wildcard is there and why nothing broader is. `myrient.erista.me` is
 deliberately *not* listed: an allowlist is a statement about where the plugin
 actually goes, and a dead host in it would be decoration.
+
+---
+
+## Seen working
+
+Games this plugin imported are in the library below, filed in a collection named after it. Nothing in that picture was hand-placed.
+
+![RomM populated by ROM Hub plugins](https://raw.githubusercontent.com/BlizzHacker/rom-hub/master/docs/screenshots/romm.png)
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install nointro-archive`.
